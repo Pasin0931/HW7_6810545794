@@ -3,6 +3,8 @@ HW7: Individual Database Project - School Management Simulation
 Student: Pasin Makcharoen
 Student ID: 6810545794
 
+YOUTUBE PRESENTATION VIDEO: https://youtu.be/H3P484YzIk8
+
 SELECTED OPTION
 
 Option C - Simple Database Application
