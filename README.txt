@@ -4,6 +4,7 @@ Student: Pasin Makcharoen
 Student ID: 6810545794
 
 YOUTUBE PRESENTATION VIDEO: https://youtu.be/H3P484YzIk8
+LIVE WEB APPLICATION: https://school-management-sim-rho.vercel.app
 
 SELECTED OPTION
 
