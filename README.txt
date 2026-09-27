@@ -78,3 +78,5 @@ APP NAVIGATION
 
 *IMPORTANT NOTE*
 Every create, update, delete operation affects shared data for all users (it's not scoped to an individual account, since this application does not implement authentication or per-user access)
+
+and if there are no activity done to the database, it will auto disabled, which make user unable interaction for user, and need to be turn on manually
